@@ -1,2 +1,2 @@
 # email_classifier
-An ML classification example
+A ML classification example
